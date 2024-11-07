@@ -1,0 +1,19 @@
+Database schema:-
+create a user in oracle database named 'keyd', with password 'java.
+
+create tables attacker,blackbox, greybox, keyserver,ownerfiles, ownerregister, router.
+
+checkout Database Tables pdf to help you setup database schema or tables that are to be created.
+
+Dependencies :-
+ rs2xml,Jfreechart,bouncycastle,ojdbc6
+
+Requirements:-
+Operating Systems: WINDOWS 7/10/11
+Tool: Netbeans 8.2
+Front End: Java Swing and Java AWT
+Back End: Oracle 11g
+
+
+
+
